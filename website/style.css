@@ -611,6 +611,9 @@ img {
   margin: 8px 0;
   box-sizing: border-box;
   text-align: center;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 3px 10px 0 rgba(0, 0, 0, 0.09);
+  border-radius: 15px;
 }
 
 .breuken-input {
@@ -619,6 +622,19 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 15%;
+}
+
+.btn-breuken {
+  background-color: #f6cd61;
+  border-radius: 25px;
+  border: none;
+}
+
+.btn-breuken:hover {
+  background-color: #e6b846;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
 }
 
 .breuken-output {
