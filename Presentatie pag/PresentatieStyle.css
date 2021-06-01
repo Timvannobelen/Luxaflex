@@ -1,7 +1,3 @@
-body{
-    color: #ffffff;
-}
-
 .mySlides {
     display:flex;
     justify-content: center;
@@ -9,15 +5,18 @@ body{
     height: 400px;
 }
 
-#tekst {
+#tekst{
     display: flex;
-    border-radius: 25px;
-    background: #f6cd61;
-    padding: 20px;
-    width: auto;
-    height: auto;
-  }
+    text-align: center;
+    justify-content: center;
+}
 
 #tekst p{
+    height: 100px;
+    width: 100px;
+}
 
+#tekst img{
+    height: 200px;
+    width: 200px;
 }

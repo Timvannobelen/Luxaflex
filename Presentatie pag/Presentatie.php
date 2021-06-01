@@ -27,9 +27,9 @@
       
           <div class="navbar-menu" id="open-navbar1">
             <ul class="navbar-nav">
-              <li class="active"><a href="index.php">Home</a></li>
+              <li class="active"><a href="../website/index.php">Home</a></li>
 
-              <li><a href="dice.php">Dice</a></li>
+              <li><a href="../website/dice.php">Dice</a></li>
               <li><a href="#">Game</a></li>
 
               <li class="navbar-dropdown">
@@ -37,7 +37,7 @@
                   Math <i class="fa fa-angle-down"></i>
                 </a>
                 <ul class="dropdown" id="blog">
-                  <li><a href="rekenen1.php">Talstelsels</a></li>
+                  <li><a href="../website/rekenen1.php">Talstelsels</a></li>
                   <li class="separator"></li>
                   <li><a href="#">Link 2</a></li>
                   <li class="separator"></li>
@@ -46,7 +46,7 @@
                   <li><a href="#">Link 4</a></li>
                 </ul>
               </li>
-              <li><a href="signup.php" class="in-icon"><i class="fa fa-user" aria-hidden="true"></i></a></li>
+              <li><a href="../website/signup.php" class="in-icon"><i class="fa fa-user" aria-hidden="true"></i></a></li>
             </ul>
           </div>
         </div>
@@ -59,7 +59,8 @@
   <img class="mySlides" src="./images/math4.jpg" style="width:100%">
 </div>
     <section id="tekst">
-        <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem</p>
+        <img src="./images/math1.jpg">
+        <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem</p>
     </section>
 
 <script>
