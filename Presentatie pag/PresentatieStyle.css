@@ -1,0 +1,23 @@
+body{
+    color: #ffffff;
+}
+
+.mySlides {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+#tekst {
+    display: flex;
+    border-radius: 25px;
+    background: #f6cd61;
+    padding: 20px;
+    width: auto;
+    height: auto;
+  }
+
+#tekst p{
+
+}
