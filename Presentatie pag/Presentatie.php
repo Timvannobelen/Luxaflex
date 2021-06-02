@@ -21,7 +21,7 @@
               <span></span>
             </button>
             <a href="#">
-              <img src="../website/mathmate-logo.png" alt="logo" class="logo">
+              <img src="../website/img/mathmate-logo.png" alt="logo" class="logo">
             </a>
           </div>
       
@@ -59,6 +59,9 @@
   <img class="mySlides" src="./images/math4.jpg" style="width:100%">
 </div>
     <section id="tekst">
+        <img src="./images/math1.jpg">
+        <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem</p>
+        </br>
         <img src="./images/math1.jpg">
         <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem</p>
     </section>
