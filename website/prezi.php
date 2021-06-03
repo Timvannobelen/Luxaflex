@@ -2,13 +2,13 @@
 
 <head>
     <link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="../style/style.css">
+	<link rel="stylesheet" href="style/prezistyle.css">
 </head>
 
 <body>
 
 <?php
-	include('../include/navbar.php');
+	include('include/navbar.php');
 ?>
   <div class="reveal">
     <div class="slides">
@@ -4741,7 +4741,7 @@
   <script>
     Reveal.initialize();
   </script>
-  <script src="javascript.js"></script>
+  <script src="prezi/prezijs.js"></script>
 </body>
 
     
