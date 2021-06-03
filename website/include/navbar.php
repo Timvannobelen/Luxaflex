@@ -17,8 +17,9 @@
               <li><a href="index.php">Home</a></li>
 
               <li class="active"><a href="dice.php">Dice</a></li>
+              <li><a href="prezi/prezi.php">Przi</a></li>
               <li><a href="#">Game</a></li>
-
+              
               <li class="navbar-dropdown">
                 <a href="#" class="dropdown-toggler" data-dropdown="blog">
                   Math <i class="fa fa-angle-down"></i>
