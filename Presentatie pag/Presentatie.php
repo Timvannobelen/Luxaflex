@@ -10,7 +10,6 @@
     <title>Mathmate</title>
 </head>
 <body>
-
     <nav class="navbar">
         <div class="container">
       
@@ -52,37 +51,13 @@
         </div>
       </nav>
 
-<div class="w3-content w3-display-container">
-  <img class="mySlides" src="./images/math1.jpg" style="width:100%">
-  <img class="mySlides" src="./images/math2.jpg" style="width:100%">
-  <img class="mySlides" src="./images/math3.jpg" style="width:100%">
-  <img class="mySlides" src="./images/math4.jpg" style="width:100%">
+      <div class="reveal">  
+  <div class="slides">
+    
+  </div>
 </div>
-    <section id="tekst">
-        <img src="./images/math1.jpg">
-        <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem</p>
-        </br>
-        <img src="./images/math1.jpg">
-        <p>Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem Lorem Lorem Islem Lorem</p>
-    </section>
 
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-       x[i].style.display = "none";  
-    }
-    myIndex++;
-    if (myIndex > x.length) {myIndex = 1}    
-    x[myIndex-1].style.display = "block";  
-    setTimeout(carousel, 5000);
-}
-</script>
-
+<script src="./JavaPresen.js"></script> 
 </body>
 
 

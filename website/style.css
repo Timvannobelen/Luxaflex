@@ -99,7 +99,7 @@ a {
 
 @media (min-width: 768px) {
     .logo {
-        position: fixed;
+        position: relative;
         width: 15rem;
         top: 0.5rem;
         z-index: 999;
