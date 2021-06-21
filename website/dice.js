@@ -18,7 +18,7 @@ function rollTheDice() {
         var randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
         document.querySelector(".img1").setAttribute("src",
-            "dice" + randomNumber1 + ".png");
+            "img/dice/dice" + randomNumber1 + ".png");
 
     }, 0);
 }
